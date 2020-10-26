@@ -1,0 +1,5 @@
+Banco de Dados.txt
+Sad Codes®
+Produtos Cadastrados
+Dados:C. de Barra/ Nome/ Preco/ Categoria
+1/o/texte/o/500.0/o/nove/o/

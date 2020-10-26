@@ -1,0 +1,59 @@
+Manual do Usuário - by Sad Codes®
+
+Informações Básicas
+
+	Por favor, leia este manual antes de utilizar a interface de forma a garantir um uso seguro e correto.
+		• As descrições nesse manual são baseadas nas configurações padrão da interface;
+		• A Sad Codes® não é responsável por problemas no funcionamento causados por alteração do código em linguagem Python.
+
+	Interface 1 - Entrada
+
+	Nunca feche a interface de entrada enquanto estiver:
+		• Cadastrando ou fazendo o Login do usuário;
+		• Cadastrando um produto;
+		• Efetuando uma compra.
+
+	Escolha a opção "Entrar" para fazer o Login ou o Cadastro do usuário ou a opção "Sair" para encerrar o programa.
+
+	Interface 2 - Login ou Cadastro
+
+		• Caso esteja cadastrado, preencha corretamente os campos na área do Login;
+		• Caso não esteja cadastrado, preencha TODOS os campos na área do Cadastro.
+
+	OBS: Caso deixe algum campo em branco, um aviso aparecerá na tela.
+
+	Interface 3 - Opções
+
+	Escolha uma opção para prosseguir ou clique em "Sair" para encerrar o programa.
+		• Cadastro de Produtos: cadastrar um produto no sistema;
+		• Comprar: abre a Lista de Produtos para efetuar a compra.
+
+	Interface 4 - Cadastro dos Produtos
+
+	Preencha corretamente os campos em branco:	
+		• ID: número de identificação do produto;
+		• Produto: produto que deseja vender;
+		• Categoria: classe do produto (Ex: Alimento, Eletrônico, Papelaria...)
+		• Preço: preço do produto.
+	Cadastrando o produto:
+		• Clique em "Cadastrar" para guardar o produto no banco de dados.
+		• Após cadastrar o produto será adicionado automaticamente na Lista de Produtos.
+
+	Clique em "Voltar" para voltar à interface de opções.
+
+	Interface 5 - Lista de Produtos
+
+	Efetuando a compra:
+		• Os produtos cadastrados estarão listados por ordem de cadastro;
+		• Caso não exista produto cadastrado a lista estará vazia;
+		• Para comprar selecione apenas UM produto de cada vez, caso selecione mais de um produto, não será possível efetuar a compra;
+		• Após selecionar o produto desejado, clique em comprar para escolher a quantidade e finalizar a compra;
+		• Após finalizar a compra, o cupom fiscal será salvo em txt;
+		• Clique em "Voltar" para voltar à interface de opções.
+
+Informações Adicionais
+
+	• Todas as vendas serão salvas no Relatório de Vendas em txt;
+	• Cada cupom fiscal será salvo em um txt diferente;
+	• Os clientes cadastrados serão salvos em um único txt;
+	• Os produtos cadastrados serão salvos em um único txt.

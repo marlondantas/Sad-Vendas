@@ -1,0 +1,9 @@
+Sad Vendas:
+Sad Codes®
+Venda Número: 1
+Nome: 132 Cpf: 13
+ID:1 Produto:texte X 8 =4000.0
+Valor total: R$4000.0
+Data: Dia:30/9 Hora:9:19.
+Obrigado pela compra
+-------------------------------------------------------------------------------------------------

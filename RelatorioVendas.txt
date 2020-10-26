@@ -1,0 +1,6 @@
+Banco de Dados.txt
+Sad Codes®
+Relatorio de Vendas
+Numero da venda/Login/Cpf/Codigo do produto/Produto e Quatidade/Valor Total/Dia e Hora
+
+1/o/132/o/13/o/ID:1 Produto:texte X 8 =4000.0//O/Dia:30/9 Hora:9:19.

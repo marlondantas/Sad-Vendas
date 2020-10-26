@@ -1,0 +1,4 @@
+Banco de Dados.txt
+Sad Codes®
+Dados: Nome/ CPF/ E-mail/ User/ Senha/ Data de nascimento/ Telefone
+132/o/13/o/123/o/123/o/123/o/132/o/123/o/
